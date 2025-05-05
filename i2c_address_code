@@ -19,8 +19,8 @@ EnergyMonitor emon;
  
 BlynkTimer timer;
 //char auth[] = "zKTPiYPWnGi6_0869IPw5eT6CuVOuOOD";
-char ssid[] = "PranavRedmi";
-char pass[] = "pranav22";
+char ssid[] = "************";
+char pass[] = "********";
  
 float kWh = 0;
 unsigned long lastmillis = millis();
